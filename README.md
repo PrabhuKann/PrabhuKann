@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PrabhuKann
-- 👀 I’m interested in ERP Software development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ERP programming
+- 👋 Hi, I’m @PThangaprabhu
+- 👀 I’m interested in Fullstack Software development
+- 🌱 I have completed Fullstack course in IIT-Roorke(Thru Great Learning)
+- 💞️ I’m looking to collaborate on FullStack Programing
 - 📫 How to reach me - 9843027787
 
 <!---
